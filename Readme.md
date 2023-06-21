@@ -9,8 +9,8 @@
 
 <h1 align="center">Github Information:</h3>
 
-[![GitHub Mithalos](https://img.shields.io/github/followers/Mithalos?label=follow&style=social)](https://github.com/Mithalos) 
-![profile count](https://komarev.com/ghpvc/?username=Mithalos&color=green)&nbsp;
+[![GitHub Mithalos](https://img.shields.io/github/followers/Burak-Orhan?label=follow&style=social)](https://github.com/Mithalos) 
+![profile count](https://komarev.com/ghpvc/?username=Burak-Orhan&color=green)&nbsp;
 
 <h1 align="center"> General Information </h1>
 <h2 align="left"> Languages: </h2>
@@ -50,6 +50,6 @@
 
  <h1 align="center">My GitHub Stats :bar_chart:</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithalos&show_icons=true&locale=en&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithalos&show_icons=true&locale=en&layout=compact&theme=radical" height="180"> </p>
-  <img alt="Mithalos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mithalos&bg_color=0D1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Burak-Orhan&show_icons=true&locale=en&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Burak-Orhan&show_icons=true&locale=en&layout=compact&theme=radical" height="180"> </p>
+  <img alt="Burak-Orhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Burak-Orhan&bg_color=0D1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true">
