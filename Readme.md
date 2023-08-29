@@ -19,14 +19,13 @@
 ![Css](https://img.shields.io/badge/Css-006bc0?style=for-the-badge&logo=css3&logoColor=white)
 ![Java Script](https://img.shields.io/badge/Js-ffbf00?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSharp](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-1460A0?style=for-the-badge&logo=c&logoColor=white)
+![Sql](https://img.shields.io/badge/Sql-4e91ff?style=for-the-badge&logo=sql&logoColor=white)
 
 <!---
 ![Python](https://img.shields.io/badge/Python-6cf7e5?style=for-the-badge&logo=python&logoColor=white) -->
 
 <h2 align="left"> DataBase: </h2>
 
-![Sql](https://img.shields.io/badge/Sql-4e91ff?style=for-the-badge&logo=sql&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
