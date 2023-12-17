@@ -21,7 +21,7 @@
 -->
 ![PHP](https://img.shields.io/badge/Php-777cb4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2C20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScripts-ffbf00?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffbf00?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSharp](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=csharp&logoColor=white)
 
 <h2 align="left"> DataBase: </h2>
