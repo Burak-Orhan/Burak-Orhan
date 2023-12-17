@@ -15,20 +15,21 @@
 <h1 align="center"> General Information </h1>
 <h2 align="left"> Languages: </h2>
 
-![Html](https://img.shields.io/badge/Html-f54e00?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/Css-006bc0?style=for-the-badge&logo=css3&logoColor=white)
-![Java Script](https://img.shields.io/badge/Js-ffbf00?style=for-the-badge&logo=javascript&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Sql](https://img.shields.io/badge/Sql-4e91ff?style=for-the-badge&logo=sql&logoColor=white)
-
 <!---
-![Python](https://img.shields.io/badge/Python-6cf7e5?style=for-the-badge&logo=python&logoColor=white) -->
+![Html](https://img.shields.io/badge/Html-f54e00?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/Css-006bc0?style=for-the-badge&logo=css3&logoColor=white) 
+-->
+![PHP](https://img.shields.io/badge/Php-777cb4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2C20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScripts-ffbf00?style=for-the-badge&logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=csharp&logoColor=white)
 
 <h2 align="left"> DataBase: </h2>
 
 ![MySql](https://img.shields.io/badge/MySql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MsSql](https://img.shields.io/badge/MsSql-005C84?style=for-the-badge&logo=&logoColor=white)
 
-
+<!---
 <h2 align="left"> Backend as a Service (BaaS) / Framework: </h2>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
@@ -38,12 +39,12 @@
 ![Arduino](https://img.shields.io/badge/arduino-09b9a5?style=for-the-badge&logo=arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-060700?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine 4](https://img.shields.io/badge/unreal_engine_4-ffffff?style=for-the-badge&logo=unrealengine&logoColor=black)
-
-<h3 align="left"> Code Editors: </h3>
+-->
+<h3 align="left"> Editors: </h3>
 
 ![visual_studio_code](https://img.shields.io/badge/visual_studio_code-1cc4ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![visual_studio](https://img.shields.io/badge/visual_studio-9f49ff?style=for-the-badge&logo=visualstudio&logoColor=white)
-![sublime text 3](https://img.shields.io/badge/sublime_text-ff9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+![table plus](https://img.shields.io/badge/sublime_text-ff9800?style=for-the-badge&logo=tableplus&logoColor=white)
 
 
 
