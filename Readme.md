@@ -52,4 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Burak-Orhan&show_icons=true&locale=en&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Burak-Orhan&show_icons=true&locale=en&layout=compact&theme=radical" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burak-Orhan&theme=radical&hide_border=false" height="180">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Burak-Orhan&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="180">
   <img alt="Burak-Orhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Burak-Orhan&bg_color=0D1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true">
