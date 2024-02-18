@@ -27,7 +27,6 @@
 <h2 align="left"> DataBase: </h2>
 
 ![MySql](https://img.shields.io/badge/MySql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MsSql](https://img.shields.io/badge/MsSql-005C84?style=for-the-badge&logo=&logoColor=white)
 
 <!---
 <h2 align="left"> Backend as a Service (BaaS) / Framework: </h2>
