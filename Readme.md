@@ -31,11 +31,13 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-<!---
-<h2 align="left"> Backend as a Service (BaaS) / Framework: </h2>
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+<h2 align="left">Content Management System</h2>
 
+![.NET](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
+![.NET](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=fff&style=for-the-badge)
+
+<!--
 <h2 align="left"> Other: </h2>
 
 ![Arduino](https://img.shields.io/badge/arduino-09b9a5?style=for-the-badge&logo=arduino&logoColor=white)
