@@ -23,6 +23,10 @@
 ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
+<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge) -->
+<!-- ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge) -->
+<!-- ![AWS Amplify Badge](https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=for-the-badge) -->
 ![CSharp](https://img.shields.io/badge/C%23-67217a?style=for-the-badge&logo=csharp&logoColor=white)
 
 <h2 align="left"> DataBase: </h2>
@@ -34,8 +38,8 @@
 
 <h2 align="left">Content Management System</h2>
 
-![.NET](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
-![.NET](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=fff&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=fff&style=for-the-badge)
 
 <!--
 <h2 align="left"> Other: </h2>
@@ -49,8 +53,6 @@
 ![visual_studio_code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![visual_studio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![table plus](https://img.shields.io/badge/table_plus-ff9800?style=for-the-badge&logo=tableplus&logoColor=white)
-
-
 
  <h1 align="center">My GitHub Stats :bar_chart:</h1>
 <p align="center">
