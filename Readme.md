@@ -42,7 +42,7 @@
 ![visual_studio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![TablePlus](https://img.shields.io/badge/TablePlus-FFCC00?style=for-the-badge&logoColor=white)
 ![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![gfs](https://github-readme-stats.vercel.app/api/top-langs?username=Burak-Orhan&show_icons=true&locale=en&layout=compact&theme=radical)
+
 <h1 align="center">My GitHub Stats :bar_chart:</h1>
 <p align="center">
     <img align="center"
