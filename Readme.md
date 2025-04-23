@@ -51,12 +51,8 @@
     <img align="center"
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Burak-Orhan&theme=radical&exclude=html,CSS,Jupyter%20Notebook"
          alt="Most Repo Languages" />
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Burak-Orhan&show_icons=true&locale=en&layout=compact&theme=radical"
-        height="180em"> -->
     <img src="https://github-readme-stats.vercel.app/api?username=Burak-Orhan&show_icons=true&locale=en&theme=radical"
         height="180em">
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Burak-Orhan&theme=radical" alt="GitHub Streak"
-        height="180em"> -->
     <img src="https://github-contributor-stats.vercel.app/api?username=Burak-Orhan&limit=5&theme=radical&combine_all_yearly_contributions=true"
         height="180em">
     <img align="center"
