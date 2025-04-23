@@ -46,7 +46,7 @@
 <h1 align="center">My GitHub Stats :bar_chart:</h1>
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Burak-Orhan&show_icons=true&locale=en&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Burak-Orhan&locale=en&layout=compact&theme=radical"
          alt="Most Commits Languages" />
     <img align="center"
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Burak-Orhan&theme=radical&exclude=html,CSS,Jupyter%20Notebook"
